@@ -293,7 +293,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: WELCOME TO
+  m_Text: Welcome to
 --- !u!222 &60007866
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6415094, g: 0.064554356, b: 0.064554356, a: 1}
+  m_Color: {r: 0.19459969, g: 0.6431373, b: 0.06274508, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -372,7 +372,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CUBETHON
+  m_Text: Cubegoing
 --- !u!222 &63642034
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -451,7 +451,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: START
+  m_Text: Start
 --- !u!222 &434340587
 CanvasRenderer:
   m_ObjectHideFlags: 0

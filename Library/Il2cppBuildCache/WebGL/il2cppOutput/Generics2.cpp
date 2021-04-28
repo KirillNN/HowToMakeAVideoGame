@@ -742,7 +742,7 @@ IL2CPP_EXTERN_C_END
 
 
 // System.Collections.Generic.Comparer`1<System.Int32>
-struct  Comparer_1_t3E3093220DB5D33A829C91C1DFDBDE2F42ECEDC7  : public RuntimeObject
+struct Comparer_1_t3E3093220DB5D33A829C91C1DFDBDE2F42ECEDC7  : public RuntimeObject
 {
 public:
 
@@ -768,7 +768,7 @@ public:
 
 
 // System.Collections.Generic.Comparer`1<System.Object>
-struct  Comparer_1_t33EA2A3D50A5D04C1A23DFF361A0AAD011657B84  : public RuntimeObject
+struct Comparer_1_t33EA2A3D50A5D04C1A23DFF361A0AAD011657B84  : public RuntimeObject
 {
 public:
 
@@ -794,7 +794,7 @@ public:
 
 
 // System.Collections.Generic.Comparer`1<System.UInt64>
-struct  Comparer_1_tC3C563568EC17388448E86C396D6A5F6E342724F  : public RuntimeObject
+struct Comparer_1_tC3C563568EC17388448E86C396D6A5F6E342724F  : public RuntimeObject
 {
 public:
 
@@ -820,7 +820,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Object,System.Int32>
-struct  Dictionary_2_t1DDD2F48B87E022F599DF2452A49BB70BE95A7F8  : public RuntimeObject
+struct Dictionary_2_t1DDD2F48B87E022F599DF2452A49BB70BE95A7F8  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -934,7 +934,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Boolean>
-struct  EqualityComparer_1_tA00ECA27EEC6CA6AADD7F115EB7E6A654C8E96E7  : public RuntimeObject
+struct EqualityComparer_1_tA00ECA27EEC6CA6AADD7F115EB7E6A654C8E96E7  : public RuntimeObject
 {
 public:
 
@@ -960,7 +960,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Byte>
-struct  EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509  : public RuntimeObject
+struct EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509  : public RuntimeObject
 {
 public:
 
@@ -986,7 +986,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Char>
-struct  EqualityComparer_1_t5A410E1AF4F49A297AB2DC20A45E858B099B3D30  : public RuntimeObject
+struct EqualityComparer_1_t5A410E1AF4F49A297AB2DC20A45E858B099B3D30  : public RuntimeObject
 {
 public:
 
@@ -1012,7 +1012,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.Color32>
-struct  EqualityComparer_1_t2A96FB8DFC770B71EEA338DE7A96120575599ED5  : public RuntimeObject
+struct EqualityComparer_1_t2A96FB8DFC770B71EEA338DE7A96120575599ED5  : public RuntimeObject
 {
 public:
 
@@ -1038,7 +1038,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UI.ColorBlock>
-struct  EqualityComparer_1_tC05F233506704F39DCBB67A7941137171132CD40  : public RuntimeObject
+struct EqualityComparer_1_tC05F233506704F39DCBB67A7941137171132CD40  : public RuntimeObject
 {
 public:
 
@@ -1064,7 +1064,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Int32>
-struct  EqualityComparer_1_t20B8E5927E151143D1CBD8554CAF17F0EAC1CF62  : public RuntimeObject
+struct EqualityComparer_1_t20B8E5927E151143D1CBD8554CAF17F0EAC1CF62  : public RuntimeObject
 {
 public:
 
@@ -1090,7 +1090,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Int32Enum>
-struct  EqualityComparer_1_t399C4B066E24442E62E52C1FD1CCF501E96C846F  : public RuntimeObject
+struct EqualityComparer_1_t399C4B066E24442E62E52C1FD1CCF501E96C846F  : public RuntimeObject
 {
 public:
 
@@ -1116,7 +1116,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UI.Navigation>
-struct  EqualityComparer_1_tB3688C71063583EF32963F86697F4216C40489BC  : public RuntimeObject
+struct EqualityComparer_1_tB3688C71063583EF32963F86697F4216C40489BC  : public RuntimeObject
 {
 public:
 
@@ -1142,7 +1142,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Object>
-struct  EqualityComparer_1_t469B0BBE7B6765C576211BEF8F2803A5AD411A20  : public RuntimeObject
+struct EqualityComparer_1_t469B0BBE7B6765C576211BEF8F2803A5AD411A20  : public RuntimeObject
 {
 public:
 
@@ -1168,7 +1168,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.EventSystems.RaycastResult>
-struct  EqualityComparer_1_tD0037D51E6363B57954033486B2BF58738433B8E  : public RuntimeObject
+struct EqualityComparer_1_tD0037D51E6363B57954033486B2BF58738433B8E  : public RuntimeObject
 {
 public:
 
@@ -1194,7 +1194,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Resources.ResourceLocator>
-struct  EqualityComparer_1_tBA1136E2BA4CAD53C59DBF4C4094A9676225F08E  : public RuntimeObject
+struct EqualityComparer_1_tBA1136E2BA4CAD53C59DBF4C4094A9676225F08E  : public RuntimeObject
 {
 public:
 
@@ -1220,7 +1220,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.Single>
-struct  EqualityComparer_1_t6C59536EBB4DD1217C6DBCECEC22F9F4202F710F  : public RuntimeObject
+struct EqualityComparer_1_t6C59536EBB4DD1217C6DBCECEC22F9F4202F710F  : public RuntimeObject
 {
 public:
 
@@ -1246,7 +1246,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UI.SpriteState>
-struct  EqualityComparer_1_tE2AE720166A82757E1ECCBD4453EF08913187030  : public RuntimeObject
+struct EqualityComparer_1_tE2AE720166A82757E1ECCBD4453EF08913187030  : public RuntimeObject
 {
 public:
 
@@ -1272,7 +1272,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<System.String>
-struct  EqualityComparer_1_tDC2082D4D5947A0F76D6FA7870E09811B1A8B69E  : public RuntimeObject
+struct EqualityComparer_1_tDC2082D4D5947A0F76D6FA7870E09811B1A8B69E  : public RuntimeObject
 {
 public:
 
@@ -1298,7 +1298,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UICharInfo>
-struct  EqualityComparer_1_t290DD173FACA97F400C1127A5C7A758A53677210  : public RuntimeObject
+struct EqualityComparer_1_t290DD173FACA97F400C1127A5C7A758A53677210  : public RuntimeObject
 {
 public:
 
@@ -1324,7 +1324,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UILineInfo>
-struct  EqualityComparer_1_t906CC08AF3C90173A8217B5E4F41B4A1D8A17D0B  : public RuntimeObject
+struct EqualityComparer_1_t906CC08AF3C90173A8217B5E4F41B4A1D8A17D0B  : public RuntimeObject
 {
 public:
 
@@ -1350,7 +1350,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UIVertex>
-struct  EqualityComparer_1_t1A201EA4D36D150B1EDD81F1738845AE9EB44676  : public RuntimeObject
+struct EqualityComparer_1_t1A201EA4D36D150B1EDD81F1738845AE9EB44676  : public RuntimeObject
 {
 public:
 
@@ -1376,7 +1376,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.Vector3>
-struct  EqualityComparer_1_t3BB33804F138CAE0908623F6BFE2C7416362B9A7  : public RuntimeObject
+struct EqualityComparer_1_t3BB33804F138CAE0908623F6BFE2C7416362B9A7  : public RuntimeObject
 {
 public:
 
@@ -1402,7 +1402,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.Vector4>
-struct  EqualityComparer_1_tF0279A3F5650C6035C7E9ABDE4237DCE38E8507E  : public RuntimeObject
+struct EqualityComparer_1_tF0279A3F5650C6035C7E9ABDE4237DCE38E8507E  : public RuntimeObject
 {
 public:
 
@@ -1428,7 +1428,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.BeforeRenderHelper/OrderBlock>
-struct  EqualityComparer_1_tCE1E074B8086BD74052325934835347938939412  : public RuntimeObject
+struct EqualityComparer_1_tCE1E074B8086BD74052325934835347938939412  : public RuntimeObject
 {
 public:
 
@@ -1454,7 +1454,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.Camera/RenderRequest>
-struct  EqualityComparer_1_t9886DA9419AD18F17F6D589F94F26DF1933417C2  : public RuntimeObject
+struct EqualityComparer_1_t9886DA9419AD18F17F6D589F94F26DF1933417C2  : public RuntimeObject
 {
 public:
 
@@ -1480,7 +1480,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.UnitySynchronizationContext/WorkRequest>
-struct  EqualityComparer_1_t9E29605F47D17DB737066B127517BF205E10444D  : public RuntimeObject
+struct EqualityComparer_1_t9E29605F47D17DB737066B127517BF205E10444D  : public RuntimeObject
 {
 public:
 
@@ -1506,7 +1506,7 @@ public:
 
 
 // System.Collections.Generic.HashSet`1<System.Object>
-struct  HashSet_1_t680119C7ED8D82AED56CDB83DF6F0E9149852A9B  : public RuntimeObject
+struct HashSet_1_t680119C7ED8D82AED56CDB83DF6F0E9149852A9B  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.HashSet`1::_buckets
@@ -1598,7 +1598,7 @@ public:
 
 
 // System.Collections.Generic.ICollectionDebugView`1<System.Object>
-struct  ICollectionDebugView_1_t6B62B1AAC1DEC0C25ED986071472831B51C6B916  : public RuntimeObject
+struct ICollectionDebugView_1_t6B62B1AAC1DEC0C25ED986071472831B51C6B916  : public RuntimeObject
 {
 public:
 
@@ -1607,7 +1607,7 @@ public:
 
 
 // System.Collections.Concurrent.IDictionaryDebugView`2<System.Object,System.Object>
-struct  IDictionaryDebugView_2_t5E55EF974ADAA301E8208DD1B533EC1CFFB7A4B4  : public RuntimeObject
+struct IDictionaryDebugView_2_t5E55EF974ADAA301E8208DD1B533EC1CFFB7A4B4  : public RuntimeObject
 {
 public:
 
@@ -1616,7 +1616,7 @@ public:
 
 
 // System.Collections.Generic.IDictionaryDebugView`2<System.Object,System.Object>
-struct  IDictionaryDebugView_2_t8BA30C799A222C6728ED1E53772F36676871031C  : public RuntimeObject
+struct IDictionaryDebugView_2_t8BA30C799A222C6728ED1E53772F36676871031C  : public RuntimeObject
 {
 public:
 
@@ -1625,7 +1625,7 @@ public:
 
 
 // UnityEngine.UI.Collections.IndexedSet`1<System.Object>
-struct  IndexedSet_1_t2217A7C821B33A01DC2AE4CF457236A1EBACE4D8  : public RuntimeObject
+struct IndexedSet_1_t2217A7C821B33A01DC2AE4CF457236A1EBACE4D8  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<T> UnityEngine.UI.Collections.IndexedSet`1::m_List
@@ -1655,7 +1655,7 @@ public:
 
 
 // System.IO.Iterator`1<System.Object>
-struct  Iterator_1_tBE2113D3335AA61637A89AF934B1955508CE76AE  : public RuntimeObject
+struct Iterator_1_tBE2113D3335AA61637A89AF934B1955508CE76AE  : public RuntimeObject
 {
 public:
 	// System.Int32 System.IO.Iterator`1::threadId
@@ -1694,7 +1694,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Object>
-struct  List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5  : public RuntimeObject
+struct List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1761,7 +1761,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.IO.Directory/SearchData>
-struct  List_1_tD4204D52A57CADE11F26F8D3FAC6AF2EA0CB8913  : public RuntimeObject
+struct List_1_tD4204D52A57CADE11F26F8D3FAC6AF2EA0CB8913  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1828,7 +1828,7 @@ public:
 
 
 // System.IO.SearchResultHandler`1<System.Object>
-struct  SearchResultHandler_1_tB819A963B62A843474E27DDAFE239812CF70839D  : public RuntimeObject
+struct SearchResultHandler_1_tB819A963B62A843474E27DDAFE239812CF70839D  : public RuntimeObject
 {
 public:
 
@@ -1837,7 +1837,7 @@ public:
 
 
 // UnityEngine.EventSystems.AbstractEventData
-struct  AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF  : public RuntimeObject
+struct AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.EventSystems.AbstractEventData::m_Used
@@ -1859,7 +1859,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-struct  CriticalFinalizerObject_tA3367C832FFE7434EB3C15C7136AF25524150997  : public RuntimeObject
+struct CriticalFinalizerObject_tA3367C832FFE7434EB3C15C7136AF25524150997  : public RuntimeObject
 {
 public:
 
@@ -1868,7 +1868,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -1877,7 +1877,7 @@ public:
 
 
 // System.IO.Path
-struct  Path_tF1D95B78D57C1C1211BA6633FF2AC22FD6C48921  : public RuntimeObject
+struct Path_tF1D95B78D57C1C1211BA6633FF2AC22FD6C48921  : public RuntimeObject
 {
 public:
 
@@ -1997,7 +1997,7 @@ public:
 
 
 // System.IO.SearchResult
-struct  SearchResult_t01645319F2B5E9C2948FE1F409A4450F4512880A  : public RuntimeObject
+struct SearchResult_t01645319F2B5E9C2948FE1F409A4450F4512880A  : public RuntimeObject
 {
 public:
 	// System.String System.IO.SearchResult::fullPath
@@ -2038,7 +2038,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationInfo
-struct  SerializationInfo_t097DA64D9DB49ED7F2458E964BE8CCCF63FC67C1  : public RuntimeObject
+struct SerializationInfo_t097DA64D9DB49ED7F2458E964BE8CCCF63FC67C1  : public RuntimeObject
 {
 public:
 	// System.String[] System.Runtime.Serialization.SerializationInfo::m_members
@@ -2174,7 +2174,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -2219,7 +2219,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -2236,7 +2236,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // Microsoft.Win32.Win32Native/WIN32_FIND_DATA
-struct  WIN32_FIND_DATA_tE88493B22E1CDD2E595CA4F800949555399AB3C7  : public RuntimeObject
+struct WIN32_FIND_DATA_tE88493B22E1CDD2E595CA4F800949555399AB3C7  : public RuntimeObject
 {
 public:
 	// System.Int32 Microsoft.Win32.Win32Native/WIN32_FIND_DATA::dwFileAttributes
@@ -2265,7 +2265,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Entry<System.Int32,System.Object>
-struct  Entry_tD3C172E348082DAA38034A7BFC5251A40A96D632 
+struct Entry_tD3C172E348082DAA38034A7BFC5251A40A96D632 
 {
 public:
 	// System.Int32 System.Collections.Generic.Dictionary`2/Entry::hashCode
@@ -2314,7 +2314,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Entry<System.Object,System.Int32>
-struct  Entry_t19C714E802975CC32D4BD74AE5A32816E1352D0A 
+struct Entry_t19C714E802975CC32D4BD74AE5A32816E1352D0A 
 {
 public:
 	// System.Int32 System.Collections.Generic.Dictionary`2/Entry::hashCode
@@ -2363,7 +2363,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Entry<System.Object,System.Object>
-struct  Entry_t83C37D8208C6D1FBF2FAE2AACE83E9AA3EDBB4DE 
+struct Entry_t83C37D8208C6D1FBF2FAE2AACE83E9AA3EDBB4DE 
 {
 public:
 	// System.Int32 System.Collections.Generic.Dictionary`2/Entry::hashCode
@@ -2413,7 +2413,7 @@ public:
 
 
 // System.Collections.Generic.HashSet`1/Enumerator<System.Object>
-struct  Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A 
+struct Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A 
 {
 public:
 	// System.Collections.Generic.HashSet`1<T> System.Collections.Generic.HashSet`1/Enumerator::_set
@@ -2463,7 +2463,7 @@ public:
 
 
 // System.Collections.Generic.GenericComparer`1<System.Int32>
-struct  GenericComparer_1_tA2A724CE8F1B4471887CF1F75E5FABF25FE56953  : public Comparer_1_t3E3093220DB5D33A829C91C1DFDBDE2F42ECEDC7
+struct GenericComparer_1_tA2A724CE8F1B4471887CF1F75E5FABF25FE56953  : public Comparer_1_t3E3093220DB5D33A829C91C1DFDBDE2F42ECEDC7
 {
 public:
 
@@ -2472,7 +2472,7 @@ public:
 
 
 // System.Collections.Generic.GenericComparer`1<System.Object>
-struct  GenericComparer_1_tA7EF0FC51F3E30861A0A574F48BA852C4B279392  : public Comparer_1_t33EA2A3D50A5D04C1A23DFF361A0AAD011657B84
+struct GenericComparer_1_tA7EF0FC51F3E30861A0A574F48BA852C4B279392  : public Comparer_1_t33EA2A3D50A5D04C1A23DFF361A0AAD011657B84
 {
 public:
 
@@ -2481,7 +2481,7 @@ public:
 
 
 // System.Collections.Generic.GenericComparer`1<System.UInt64>
-struct  GenericComparer_1_tDDBD1F22486D262EF46AF2F87B71F2C6DB957D00  : public Comparer_1_tC3C563568EC17388448E86C396D6A5F6E342724F
+struct GenericComparer_1_tDDBD1F22486D262EF46AF2F87B71F2C6DB957D00  : public Comparer_1_tC3C563568EC17388448E86C396D6A5F6E342724F
 {
 public:
 
@@ -2490,7 +2490,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<System.Boolean>
-struct  GenericEqualityComparer_1_tF4CDE3B84DE4F95C5AD8A7880899CDDEEBA2F58C  : public EqualityComparer_1_tA00ECA27EEC6CA6AADD7F115EB7E6A654C8E96E7
+struct GenericEqualityComparer_1_tF4CDE3B84DE4F95C5AD8A7880899CDDEEBA2F58C  : public EqualityComparer_1_tA00ECA27EEC6CA6AADD7F115EB7E6A654C8E96E7
 {
 public:
 
@@ -2499,7 +2499,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<System.Byte>
-struct  GenericEqualityComparer_1_t566EF78B7900290AD30F6C5BCF43A69CDF2BD29F  : public EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509
+struct GenericEqualityComparer_1_t566EF78B7900290AD30F6C5BCF43A69CDF2BD29F  : public EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509
 {
 public:
 
@@ -2508,7 +2508,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<System.Char>
-struct  GenericEqualityComparer_1_t775F78F967041550CDB3CBACB91BB3DDE0A7848C  : public EqualityComparer_1_t5A410E1AF4F49A297AB2DC20A45E858B099B3D30
+struct GenericEqualityComparer_1_t775F78F967041550CDB3CBACB91BB3DDE0A7848C  : public EqualityComparer_1_t5A410E1AF4F49A297AB2DC20A45E858B099B3D30
 {
 public:
 
@@ -2517,7 +2517,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<UnityEngine.UI.ColorBlock>
-struct  GenericEqualityComparer_1_tEBE18D370C5F597695E21616B8F92462C2EC388D  : public EqualityComparer_1_tC05F233506704F39DCBB67A7941137171132CD40
+struct GenericEqualityComparer_1_tEBE18D370C5F597695E21616B8F92462C2EC388D  : public EqualityComparer_1_tC05F233506704F39DCBB67A7941137171132CD40
 {
 public:
 
@@ -2526,7 +2526,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<System.Int32>
-struct  GenericEqualityComparer_1_t5858BB53F4DFA77904EBDE8DD7DE75265FCF5A54  : public EqualityComparer_1_t20B8E5927E151143D1CBD8554CAF17F0EAC1CF62
+struct GenericEqualityComparer_1_t5858BB53F4DFA77904EBDE8DD7DE75265FCF5A54  : public EqualityComparer_1_t20B8E5927E151143D1CBD8554CAF17F0EAC1CF62
 {
 public:
 
@@ -2535,7 +2535,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<UnityEngine.UI.Navigation>
-struct  GenericEqualityComparer_1_tFD0DFB9ECEE0C79AABB9625E1C81B301BF1B1A45  : public EqualityComparer_1_tB3688C71063583EF32963F86697F4216C40489BC
+struct GenericEqualityComparer_1_tFD0DFB9ECEE0C79AABB9625E1C81B301BF1B1A45  : public EqualityComparer_1_tB3688C71063583EF32963F86697F4216C40489BC
 {
 public:
 
@@ -2544,7 +2544,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<System.Object>
-struct  GenericEqualityComparer_1_tD6487DBDBC31A0617169B45796A238E909F8DA89  : public EqualityComparer_1_t469B0BBE7B6765C576211BEF8F2803A5AD411A20
+struct GenericEqualityComparer_1_tD6487DBDBC31A0617169B45796A238E909F8DA89  : public EqualityComparer_1_t469B0BBE7B6765C576211BEF8F2803A5AD411A20
 {
 public:
 
@@ -2553,7 +2553,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<System.Single>
-struct  GenericEqualityComparer_1_t4497EDF491215332D5F8395F0C7A9C40EB83457A  : public EqualityComparer_1_t6C59536EBB4DD1217C6DBCECEC22F9F4202F710F
+struct GenericEqualityComparer_1_t4497EDF491215332D5F8395F0C7A9C40EB83457A  : public EqualityComparer_1_t6C59536EBB4DD1217C6DBCECEC22F9F4202F710F
 {
 public:
 
@@ -2562,7 +2562,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<UnityEngine.UI.SpriteState>
-struct  GenericEqualityComparer_1_t68556D426C081E3775BA8741A515DA1784355F68  : public EqualityComparer_1_tE2AE720166A82757E1ECCBD4453EF08913187030
+struct GenericEqualityComparer_1_t68556D426C081E3775BA8741A515DA1784355F68  : public EqualityComparer_1_tE2AE720166A82757E1ECCBD4453EF08913187030
 {
 public:
 
@@ -2571,7 +2571,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<UnityEngine.Vector3>
-struct  GenericEqualityComparer_1_t10497F62A4CAA79940141A71ED9C7C0358C33649  : public EqualityComparer_1_t3BB33804F138CAE0908623F6BFE2C7416362B9A7
+struct GenericEqualityComparer_1_t10497F62A4CAA79940141A71ED9C7C0358C33649  : public EqualityComparer_1_t3BB33804F138CAE0908623F6BFE2C7416362B9A7
 {
 public:
 
@@ -2580,7 +2580,7 @@ public:
 
 
 // System.Collections.Generic.GenericEqualityComparer`1<UnityEngine.Vector4>
-struct  GenericEqualityComparer_1_tF5345016309DF86490097F2F1B72BE4E079E20A0  : public EqualityComparer_1_tF0279A3F5650C6035C7E9ABDE4237DCE38E8507E
+struct GenericEqualityComparer_1_tF5345016309DF86490097F2F1B72BE4E079E20A0  : public EqualityComparer_1_tF0279A3F5650C6035C7E9ABDE4237DCE38E8507E
 {
 public:
 
@@ -2589,7 +2589,7 @@ public:
 
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.Dictionary`2/Entry<System.Int32,System.Object>>
-struct  InternalEnumerator_1_tD981BF0F50271F9EA86996350AECA56BDA5C2DB2 
+struct InternalEnumerator_1_tD981BF0F50271F9EA86996350AECA56BDA5C2DB2 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2636,7 +2636,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.Dictionary`2/Entry<System.Object,System.Int32>>
-struct  InternalEnumerator_1_t714B5183EC1483B04D783B05F3E7B0C31B99E711 
+struct InternalEnumerator_1_t714B5183EC1483B04D783B05F3E7B0C31B99E711 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2683,7 +2683,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.Dictionary`2/Entry<System.Object,System.Object>>
-struct  InternalEnumerator_1_t1192C3B86D30E875CCD5BE146064F9BD1EDA7228 
+struct InternalEnumerator_1_t1192C3B86D30E875CCD5BE146064F9BD1EDA7228 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2730,7 +2730,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.Dictionary`2/Entry<System.Object,System.Resources.ResourceLocator>>
-struct  InternalEnumerator_1_t0BC256F805A24DD09D5CCB76FC79ECBF1386CC45 
+struct InternalEnumerator_1_t0BC256F805A24DD09D5CCB76FC79ECBF1386CC45 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2777,7 +2777,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.DateTime,System.Object>>
-struct  InternalEnumerator_1_tDA32BBD291F0EA5533486F5D88AFEA9CBD6B305D 
+struct InternalEnumerator_1_tDA32BBD291F0EA5533486F5D88AFEA9CBD6B305D 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2824,7 +2824,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>>
-struct  InternalEnumerator_1_tF7F2F1A37E06D22174981615EF35BD7284843180 
+struct InternalEnumerator_1_tF7F2F1A37E06D22174981615EF35BD7284843180 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2871,7 +2871,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Int32>>
-struct  InternalEnumerator_1_tE5CF8CAB8374FD9DB117204DB667B5BBE7FA9298 
+struct InternalEnumerator_1_tE5CF8CAB8374FD9DB117204DB667B5BBE7FA9298 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2918,7 +2918,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>
-struct  InternalEnumerator_1_tB6A864BBA0281CF35A3632CE6BDA5CF21AA0A082 
+struct InternalEnumerator_1_tB6A864BBA0281CF35A3632CE6BDA5CF21AA0A082 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -2965,7 +2965,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Resources.ResourceLocator>>
-struct  InternalEnumerator_1_tA59EF204D1E3F26431D6356FC1975E8856A9C943 
+struct InternalEnumerator_1_tA59EF204D1E3F26431D6356FC1975E8856A9C943 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3012,7 +3012,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.Generic.HashSet`1/Slot<System.Object>>
-struct  InternalEnumerator_1_t57700F0C41A9D145D2EA1114C396DBAF834DC3FF 
+struct InternalEnumerator_1_t57700F0C41A9D145D2EA1114C396DBAF834DC3FF 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3059,7 +3059,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.Rendering.BatchVisibility>
-struct  InternalEnumerator_1_tD334F90E773C43CBAECBE4AE435ECBE9E1594FB9 
+struct InternalEnumerator_1_tD334F90E773C43CBAECBE4AE435ECBE9E1594FB9 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3106,7 +3106,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Boolean>
-struct  InternalEnumerator_1_t254E525D94E61F33EEA5EB1F7536D2BCD584D03A 
+struct InternalEnumerator_1_t254E525D94E61F33EEA5EB1F7536D2BCD584D03A 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3153,7 +3153,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Byte>
-struct  InternalEnumerator_1_t613CA0E6146CD6C8B91DFED65F3C3E0FE3093483 
+struct InternalEnumerator_1_t613CA0E6146CD6C8B91DFED65F3C3E0FE3093483 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3200,7 +3200,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Threading.CancellationTokenRegistration>
-struct  InternalEnumerator_1_tD3FF1BFABBBA20E3AC4FA03C2653534EF36E316B 
+struct InternalEnumerator_1_tD3FF1BFABBBA20E3AC4FA03C2653534EF36E316B 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3247,7 +3247,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Char>
-struct  InternalEnumerator_1_tDECF6366F32D513A57D4FA512B7F1FA6FDD317EB 
+struct InternalEnumerator_1_tDECF6366F32D513A57D4FA512B7F1FA6FDD317EB 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3294,7 +3294,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.Color32>
-struct  InternalEnumerator_1_tED83475859C5567E08C4ECE64D9CF62DE6AA5DC9 
+struct InternalEnumerator_1_tED83475859C5567E08C4ECE64D9CF62DE6AA5DC9 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3341,7 +3341,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.UI.ColorBlock>
-struct  InternalEnumerator_1_tEFBE00F3A207FD215CE44E69FBEA3AEC9799C8AF 
+struct InternalEnumerator_1_tEFBE00F3A207FD215CE44E69FBEA3AEC9799C8AF 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3388,7 +3388,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.ContactPoint>
-struct  InternalEnumerator_1_tCD473BDA66B7A3F7A8B26F1D76CBD2EDD207A794 
+struct InternalEnumerator_1_tCD473BDA66B7A3F7A8B26F1D76CBD2EDD207A794 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3435,7 +3435,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Reflection.CustomAttributeNamedArgument>
-struct  InternalEnumerator_1_tF7DC87D58012CA89801906C45A91B00E1D204467 
+struct InternalEnumerator_1_tF7DC87D58012CA89801906C45A91B00E1D204467 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3482,7 +3482,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Reflection.CustomAttributeTypedArgument>
-struct  InternalEnumerator_1_t87A657946E02143952272092C580DF9AA2CC334A 
+struct InternalEnumerator_1_t87A657946E02143952272092C580DF9AA2CC334A 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3529,7 +3529,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.DateTime>
-struct  InternalEnumerator_1_t9997F001816F91ADD9019B9DE3ED21F9CBDAFD66 
+struct InternalEnumerator_1_t9997F001816F91ADD9019B9DE3ED21F9CBDAFD66 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3576,7 +3576,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Decimal>
-struct  InternalEnumerator_1_t934F5DA2B01B663F4BD787467C3378BB05C77ED9 
+struct InternalEnumerator_1_t934F5DA2B01B663F4BD787467C3378BB05C77ED9 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3623,7 +3623,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Collections.DictionaryEntry>
-struct  InternalEnumerator_1_t3DE2557B7DE3728AD7961315F9C5D4F1129A5504 
+struct InternalEnumerator_1_t3DE2557B7DE3728AD7961315F9C5D4F1129A5504 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3670,7 +3670,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Double>
-struct  InternalEnumerator_1_tAE4C7141CDD2F97F9C4FF34D1BB3898F8FD69FE0 
+struct InternalEnumerator_1_tAE4C7141CDD2F97F9C4FF34D1BB3898F8FD69FE0 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3717,7 +3717,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Runtime.CompilerServices.Ephemeron>
-struct  InternalEnumerator_1_t209894F016B4A4D22F2B095011AA30F75FD2894A 
+struct InternalEnumerator_1_t209894F016B4A4D22F2B095011AA30F75FD2894A 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3764,7 +3764,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Int16>
-struct  InternalEnumerator_1_t78062F1B586C8BA766859CB7071A95C7E5F07B81 
+struct InternalEnumerator_1_t78062F1B586C8BA766859CB7071A95C7E5F07B81 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3811,7 +3811,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Int32>
-struct  InternalEnumerator_1_t7F03B38857D4D085EBD2B044840DAA5F7200023B 
+struct InternalEnumerator_1_t7F03B38857D4D085EBD2B044840DAA5F7200023B 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3858,7 +3858,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Int32Enum>
-struct  InternalEnumerator_1_t803773E4C1219E04B5366F6B5AB467A12ED474BA 
+struct InternalEnumerator_1_t803773E4C1219E04B5366F6B5AB467A12ED474BA 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3905,7 +3905,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Int64>
-struct  InternalEnumerator_1_tAFCEB7D19D1ACA6FD2F28768A6596EBA9F8153E3 
+struct InternalEnumerator_1_tAFCEB7D19D1ACA6FD2F28768A6596EBA9F8153E3 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3952,7 +3952,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.IntPtr>
-struct  InternalEnumerator_1_t67EEBCAFBD5A4614BD31756166850354675C12EA 
+struct InternalEnumerator_1_t67EEBCAFBD5A4614BD31756166850354675C12EA 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -3999,7 +3999,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Globalization.InternalCodePageDataItem>
-struct  InternalEnumerator_1_t56DDFD58CD7B4360A12ADAC1E44B3BC493DBE802 
+struct InternalEnumerator_1_t56DDFD58CD7B4360A12ADAC1E44B3BC493DBE802 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4046,7 +4046,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Globalization.InternalEncodingDataItem>
-struct  InternalEnumerator_1_t25F66DA5C1147C9F0B70B3E1E94D3F195676D8BA 
+struct InternalEnumerator_1_t25F66DA5C1147C9F0B70B3E1E94D3F195676D8BA 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4093,7 +4093,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.Keyframe>
-struct  InternalEnumerator_1_t0D1C99F3CC8B170B65FC2E1263C66BF6B56DD1BC 
+struct InternalEnumerator_1_t0D1C99F3CC8B170B65FC2E1263C66BF6B56DD1BC 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4140,7 +4140,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.Experimental.GlobalIllumination.LightDataGI>
-struct  InternalEnumerator_1_tC9AA7769CFAE6275854CDF77E610F84EB413B94E 
+struct InternalEnumerator_1_tC9AA7769CFAE6275854CDF77E610F84EB413B94E 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4187,7 +4187,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.UI.Navigation>
-struct  InternalEnumerator_1_t66B28D9EE09F01F177ED608FA2D84850EA9D5ACA 
+struct InternalEnumerator_1_t66B28D9EE09F01F177ED608FA2D84850EA9D5ACA 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4234,7 +4234,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Object>
-struct  InternalEnumerator_1_t5034D7E77C23B1C0B8565821FBEE0AE7B562E63E 
+struct InternalEnumerator_1_t5034D7E77C23B1C0B8565821FBEE0AE7B562E63E 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4281,7 +4281,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<System.Reflection.ParameterModifier>
-struct  InternalEnumerator_1_tC9E22B155E27D37C78C6F86A23D50CB0BCAF87F7 
+struct InternalEnumerator_1_tC9E22B155E27D37C78C6F86A23D50CB0BCAF87F7 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4328,7 +4328,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.Plane>
-struct  InternalEnumerator_1_tBBD42AD556F1AEAC3832E0A6165B489B15127283 
+struct InternalEnumerator_1_tBBD42AD556F1AEAC3832E0A6165B489B15127283 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4375,7 +4375,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.Playables.PlayableBinding>
-struct  InternalEnumerator_1_tF5ADEEE344C8F0FD5F4821802D522EA21C228E42 
+struct InternalEnumerator_1_tF5ADEEE344C8F0FD5F4821802D522EA21C228E42 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4422,7 +4422,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.LowLevel.PlayerLoopSystem>
-struct  InternalEnumerator_1_tFAA3414E8C711AAEE665E32DC112113CA408B5F0 
+struct InternalEnumerator_1_tFAA3414E8C711AAEE665E32DC112113CA408B5F0 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4469,7 +4469,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Array/InternalEnumerator`1<UnityEngine.RaycastHit>
-struct  InternalEnumerator_1_t042BCE99E7EF8B342F56CDEE39D5A86C0316B1C1 
+struct InternalEnumerator_1_t042BCE99E7EF8B342F56CDEE39D5A86C0316B1C1 
 {
 public:
 	// System.Array System.Array/InternalEnumerator`1::array
@@ -4516,7 +4516,7 @@ struct InternalEnumerator_1_t37B1DF66175FF6BD02352E6D77EF8F4504A012D5_marshaled_
 #endif
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>
-struct  KeyValuePair_2_t56E20A5489EE435FD8BBE3EFACF6219A626E04C0 
+struct KeyValuePair_2_t56E20A5489EE435FD8BBE3EFACF6219A626E04C0 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -4545,7 +4545,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Int32>
-struct  KeyValuePair_2_t95507C2A8401F2191EE3D308B1B00E3729AE41B5 
+struct KeyValuePair_2_t95507C2A8401F2191EE3D308B1B00E3729AE41B5 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -4574,7 +4574,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>
-struct  KeyValuePair_2_tFB6A066C69E28C6ACA5FC5E24D969BFADC5FA625 
+struct KeyValuePair_2_tFB6A066C69E28C6ACA5FC5E24D969BFADC5FA625 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -4604,7 +4604,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Byte>
-struct  ObjectEqualityComparer_1_tC7EB18DDAE572EB358C7EE7787772637D091F6CD  : public EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509
+struct ObjectEqualityComparer_1_tC7EB18DDAE572EB358C7EE7787772637D091F6CD  : public EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509
 {
 public:
 
@@ -4613,7 +4613,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Char>
-struct  ObjectEqualityComparer_1_tEDD07DD44B5AAF9D28523C6070EDF528EFDD67D4  : public EqualityComparer_1_t5A410E1AF4F49A297AB2DC20A45E858B099B3D30
+struct ObjectEqualityComparer_1_tEDD07DD44B5AAF9D28523C6070EDF528EFDD67D4  : public EqualityComparer_1_t5A410E1AF4F49A297AB2DC20A45E858B099B3D30
 {
 public:
 
@@ -4622,7 +4622,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.Color32>
-struct  ObjectEqualityComparer_1_t4D80DCFC46A5027A6268E4EDE16C052ACFCB8993  : public EqualityComparer_1_t2A96FB8DFC770B71EEA338DE7A96120575599ED5
+struct ObjectEqualityComparer_1_t4D80DCFC46A5027A6268E4EDE16C052ACFCB8993  : public EqualityComparer_1_t2A96FB8DFC770B71EEA338DE7A96120575599ED5
 {
 public:
 
@@ -4631,7 +4631,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UI.ColorBlock>
-struct  ObjectEqualityComparer_1_tED4799A234213E556AF36F80D28003462D5AB058  : public EqualityComparer_1_tC05F233506704F39DCBB67A7941137171132CD40
+struct ObjectEqualityComparer_1_tED4799A234213E556AF36F80D28003462D5AB058  : public EqualityComparer_1_tC05F233506704F39DCBB67A7941137171132CD40
 {
 public:
 
@@ -4640,7 +4640,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Int32>
-struct  ObjectEqualityComparer_1_t7F086B789BE62B628101FF4B3CCDD4840D97CEAC  : public EqualityComparer_1_t20B8E5927E151143D1CBD8554CAF17F0EAC1CF62
+struct ObjectEqualityComparer_1_t7F086B789BE62B628101FF4B3CCDD4840D97CEAC  : public EqualityComparer_1_t20B8E5927E151143D1CBD8554CAF17F0EAC1CF62
 {
 public:
 
@@ -4649,7 +4649,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Int32Enum>
-struct  ObjectEqualityComparer_1_t1D849A7393F75B22BA46376AFDDD86F0FF0082FC  : public EqualityComparer_1_t399C4B066E24442E62E52C1FD1CCF501E96C846F
+struct ObjectEqualityComparer_1_t1D849A7393F75B22BA46376AFDDD86F0FF0082FC  : public EqualityComparer_1_t399C4B066E24442E62E52C1FD1CCF501E96C846F
 {
 public:
 
@@ -4658,7 +4658,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UI.Navigation>
-struct  ObjectEqualityComparer_1_t3DE765DC6827DF0CDC04989FB4AE76F957A0CC8A  : public EqualityComparer_1_tB3688C71063583EF32963F86697F4216C40489BC
+struct ObjectEqualityComparer_1_t3DE765DC6827DF0CDC04989FB4AE76F957A0CC8A  : public EqualityComparer_1_tB3688C71063583EF32963F86697F4216C40489BC
 {
 public:
 
@@ -4667,7 +4667,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Object>
-struct  ObjectEqualityComparer_1_tEE1792A64FD8DC89887F123CA11E735B54507197  : public EqualityComparer_1_t469B0BBE7B6765C576211BEF8F2803A5AD411A20
+struct ObjectEqualityComparer_1_tEE1792A64FD8DC89887F123CA11E735B54507197  : public EqualityComparer_1_t469B0BBE7B6765C576211BEF8F2803A5AD411A20
 {
 public:
 
@@ -4676,7 +4676,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.EventSystems.RaycastResult>
-struct  ObjectEqualityComparer_1_tF5AD42EC33C17504A098BAB0A997BEACD8406080  : public EqualityComparer_1_tD0037D51E6363B57954033486B2BF58738433B8E
+struct ObjectEqualityComparer_1_tF5AD42EC33C17504A098BAB0A997BEACD8406080  : public EqualityComparer_1_tD0037D51E6363B57954033486B2BF58738433B8E
 {
 public:
 
@@ -4685,7 +4685,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Resources.ResourceLocator>
-struct  ObjectEqualityComparer_1_t0D2FB9963DCD4B10BC91917CC5E21F3270F6F590  : public EqualityComparer_1_tBA1136E2BA4CAD53C59DBF4C4094A9676225F08E
+struct ObjectEqualityComparer_1_t0D2FB9963DCD4B10BC91917CC5E21F3270F6F590  : public EqualityComparer_1_tBA1136E2BA4CAD53C59DBF4C4094A9676225F08E
 {
 public:
 
@@ -4694,7 +4694,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<System.Single>
-struct  ObjectEqualityComparer_1_t099B9C2C84D30A86E118759F263243AF5A2AEE3C  : public EqualityComparer_1_t6C59536EBB4DD1217C6DBCECEC22F9F4202F710F
+struct ObjectEqualityComparer_1_t099B9C2C84D30A86E118759F263243AF5A2AEE3C  : public EqualityComparer_1_t6C59536EBB4DD1217C6DBCECEC22F9F4202F710F
 {
 public:
 
@@ -4703,7 +4703,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UI.SpriteState>
-struct  ObjectEqualityComparer_1_t775D73708BA19E61D304E15F1FB6337476EECC45  : public EqualityComparer_1_tE2AE720166A82757E1ECCBD4453EF08913187030
+struct ObjectEqualityComparer_1_t775D73708BA19E61D304E15F1FB6337476EECC45  : public EqualityComparer_1_tE2AE720166A82757E1ECCBD4453EF08913187030
 {
 public:
 
@@ -4712,7 +4712,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UICharInfo>
-struct  ObjectEqualityComparer_1_t500E7EE0704DBC9BB6D692F75F0317497D18D04A  : public EqualityComparer_1_t290DD173FACA97F400C1127A5C7A758A53677210
+struct ObjectEqualityComparer_1_t500E7EE0704DBC9BB6D692F75F0317497D18D04A  : public EqualityComparer_1_t290DD173FACA97F400C1127A5C7A758A53677210
 {
 public:
 
@@ -4721,7 +4721,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UILineInfo>
-struct  ObjectEqualityComparer_1_t4C99A12A1C7F18CC9DBD3B840DF2C9787B6B8971  : public EqualityComparer_1_t906CC08AF3C90173A8217B5E4F41B4A1D8A17D0B
+struct ObjectEqualityComparer_1_t4C99A12A1C7F18CC9DBD3B840DF2C9787B6B8971  : public EqualityComparer_1_t906CC08AF3C90173A8217B5E4F41B4A1D8A17D0B
 {
 public:
 
@@ -4730,7 +4730,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UIVertex>
-struct  ObjectEqualityComparer_1_t61C75EA325DBBF56AFB8C8CE5F55FB5D0AE177C1  : public EqualityComparer_1_t1A201EA4D36D150B1EDD81F1738845AE9EB44676
+struct ObjectEqualityComparer_1_t61C75EA325DBBF56AFB8C8CE5F55FB5D0AE177C1  : public EqualityComparer_1_t1A201EA4D36D150B1EDD81F1738845AE9EB44676
 {
 public:
 
@@ -4739,7 +4739,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.Vector3>
-struct  ObjectEqualityComparer_1_tAB38EB08B57C56C4AE6C06A146BDCFDA9F0F145D  : public EqualityComparer_1_t3BB33804F138CAE0908623F6BFE2C7416362B9A7
+struct ObjectEqualityComparer_1_tAB38EB08B57C56C4AE6C06A146BDCFDA9F0F145D  : public EqualityComparer_1_t3BB33804F138CAE0908623F6BFE2C7416362B9A7
 {
 public:
 
@@ -4748,7 +4748,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.Vector4>
-struct  ObjectEqualityComparer_1_tA6516BD40809F9C0942852D49DD86AEFF3356E96  : public EqualityComparer_1_tF0279A3F5650C6035C7E9ABDE4237DCE38E8507E
+struct ObjectEqualityComparer_1_tA6516BD40809F9C0942852D49DD86AEFF3356E96  : public EqualityComparer_1_tF0279A3F5650C6035C7E9ABDE4237DCE38E8507E
 {
 public:
 
@@ -4757,7 +4757,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.BeforeRenderHelper/OrderBlock>
-struct  ObjectEqualityComparer_1_tD0B7228E9053015B7170425B2BE0280A4911FDE3  : public EqualityComparer_1_tCE1E074B8086BD74052325934835347938939412
+struct ObjectEqualityComparer_1_tD0B7228E9053015B7170425B2BE0280A4911FDE3  : public EqualityComparer_1_tCE1E074B8086BD74052325934835347938939412
 {
 public:
 
@@ -4766,7 +4766,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.Camera/RenderRequest>
-struct  ObjectEqualityComparer_1_t7B95BCDE3CB60E13B180C8EB3CA4894F323982AB  : public EqualityComparer_1_t9886DA9419AD18F17F6D589F94F26DF1933417C2
+struct ObjectEqualityComparer_1_t7B95BCDE3CB60E13B180C8EB3CA4894F323982AB  : public EqualityComparer_1_t9886DA9419AD18F17F6D589F94F26DF1933417C2
 {
 public:
 
@@ -4775,7 +4775,7 @@ public:
 
 
 // System.Collections.Generic.ObjectEqualityComparer`1<UnityEngine.UnitySynchronizationContext/WorkRequest>
-struct  ObjectEqualityComparer_1_t93368D337566084DE32D758C51A2CFB4CE9FDDAC  : public EqualityComparer_1_t9E29605F47D17DB737066B127517BF205E10444D
+struct ObjectEqualityComparer_1_t93368D337566084DE32D758C51A2CFB4CE9FDDAC  : public EqualityComparer_1_t9E29605F47D17DB737066B127517BF205E10444D
 {
 public:
 
@@ -4784,7 +4784,7 @@ public:
 
 
 // System.Collections.Generic.HashSet`1/Slot<System.Object>
-struct  Slot_t1100E8CA172ECADD9BE877E11205FB2D911CD319 
+struct Slot_t1100E8CA172ECADD9BE877E11205FB2D911CD319 
 {
 public:
 	// System.Int32 System.Collections.Generic.HashSet`1/Slot::hashCode
@@ -4823,7 +4823,7 @@ public:
 
 
 // System.Threading.SparselyPopulatedArrayAddInfo`1<System.Threading.CancellationCallbackInfo>
-struct  SparselyPopulatedArrayAddInfo_1_t6EE25E0D720E03DE7A660791DB554CADCD247FC0 
+struct SparselyPopulatedArrayAddInfo_1_t6EE25E0D720E03DE7A660791DB554CADCD247FC0 
 {
 public:
 	// System.Threading.SparselyPopulatedArrayFragment`1<T> System.Threading.SparselyPopulatedArrayAddInfo`1::m_source
@@ -4852,7 +4852,7 @@ public:
 
 
 // UnityEngine.EventSystems.BaseEventData
-struct  BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E  : public AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF
+struct BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E  : public AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF
 {
 public:
 	// UnityEngine.EventSystems.EventSystem UnityEngine.EventSystems.BaseEventData::m_EventSystem
@@ -4871,7 +4871,7 @@ public:
 
 
 // UnityEngine.Rendering.BatchVisibility
-struct  BatchVisibility_tFA63D052426424FBD58F78E973AAAC52A67B5AFE 
+struct BatchVisibility_tFA63D052426424FBD58F78E973AAAC52A67B5AFE 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.BatchVisibility::offset
@@ -4909,7 +4909,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -4955,7 +4955,7 @@ public:
 
 
 // System.Byte
-struct  Byte_t0111FAB8B8685667EDDAF77683F0D8F86B659056 
+struct Byte_t0111FAB8B8685667EDDAF77683F0D8F86B659056 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -4973,7 +4973,7 @@ public:
 
 
 // System.Collections.Generic.ByteEqualityComparer
-struct  ByteEqualityComparer_t5DEB0978C83C3FA68A8AE80E9A8E0F74F5F81026  : public EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509
+struct ByteEqualityComparer_t5DEB0978C83C3FA68A8AE80E9A8E0F74F5F81026  : public EqualityComparer_1_t315BFEDB969101238C563049FF00D5CB9F8D6509
 {
 public:
 
@@ -4982,7 +4982,7 @@ public:
 
 
 // System.Char
-struct  Char_tFF60D8E7E89A20BE2294A003734341BD1DF43E14 
+struct Char_tFF60D8E7E89A20BE2294A003734341BD1DF43E14 
 {
 public:
 	// System.Char System.Char::m_value
@@ -5017,7 +5017,7 @@ public:
 
 
 // UnityEngine.Color
-struct  Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659 
+struct Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659 
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -5065,7 +5065,7 @@ public:
 
 
 // UnityEngine.Color32
-struct  Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D 
+struct Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D 
 {
 public:
 	union
@@ -5177,7 +5177,7 @@ public:
 
 
 // System.Reflection.CustomAttributeTypedArgument
-struct  CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910 
+struct CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910 
 {
 public:
 	// System.Type System.Reflection.CustomAttributeTypedArgument::argumentType
@@ -5219,7 +5219,7 @@ struct CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910_ma
 };
 
 // System.DateTime
-struct  DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405 
+struct DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -5285,7 +5285,7 @@ public:
 
 
 // System.Decimal
-struct  Decimal_t2978B229CA86D3B7BA66A0AEEE014E0DE4F940D7 
+struct Decimal_t2978B229CA86D3B7BA66A0AEEE014E0DE4F940D7 
 {
 public:
 	// System.Int32 System.Decimal::flags
@@ -5420,7 +5420,7 @@ public:
 
 
 // System.Collections.DictionaryEntry
-struct  DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90 
+struct DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90 
 {
 public:
 	// System.Object System.Collections.DictionaryEntry::_key
@@ -5462,7 +5462,7 @@ struct DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90_marshaled_com
 };
 
 // System.Double
-struct  Double_t42821932CB52DE2057E685D0E1AF3DE5033D2181 
+struct Double_t42821932CB52DE2057E685D0E1AF3DE5033D2181 
 {
 public:
 	// System.Double System.Double::m_value
@@ -5496,7 +5496,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -5530,7 +5530,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // System.Runtime.CompilerServices.Ephemeron
-struct  Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208 
+struct Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208 
 {
 public:
 	// System.Object System.Runtime.CompilerServices.Ephemeron::key
@@ -5572,7 +5572,7 @@ struct Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208_marshaled_com
 };
 
 // System.Int16
-struct  Int16_tD0F031114106263BB459DA1F099FF9F42691295A 
+struct Int16_tD0F031114106263BB459DA1F099FF9F42691295A 
 {
 public:
 	// System.Int16 System.Int16::m_value
@@ -5590,7 +5590,7 @@ public:
 
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -5608,7 +5608,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t378EE0D608BD3107E77238E85F30D2BBD46981F3 
+struct Int64_t378EE0D608BD3107E77238E85F30D2BBD46981F3 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -5626,7 +5626,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -5660,7 +5660,7 @@ public:
 
 
 // System.Globalization.InternalCodePageDataItem
-struct  InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7 
+struct InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7 
 {
 public:
 	// System.UInt16 System.Globalization.InternalCodePageDataItem::codePage
@@ -5725,7 +5725,7 @@ struct InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7_marsha
 };
 
 // System.Globalization.InternalEncodingDataItem
-struct  InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C 
+struct InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C 
 {
 public:
 	// System.String System.Globalization.InternalEncodingDataItem::webName
@@ -5766,7 +5766,7 @@ struct InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C_marsha
 };
 
 // System.Collections.Generic.InternalStringComparer
-struct  InternalStringComparer_t7669F097298BEFC7D84D480A5788A026C75D5E76  : public EqualityComparer_1_tDC2082D4D5947A0F76D6FA7870E09811B1A8B69E
+struct InternalStringComparer_t7669F097298BEFC7D84D480A5788A026C75D5E76  : public EqualityComparer_1_tDC2082D4D5947A0F76D6FA7870E09811B1A8B69E
 {
 public:
 
@@ -5775,7 +5775,7 @@ public:
 
 
 // UnityEngine.Keyframe
-struct  Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F 
+struct Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F 
 {
 public:
 	// System.Single UnityEngine.Keyframe::m_Time
@@ -5853,7 +5853,7 @@ public:
 
 
 // UnityEngine.Experimental.GlobalIllumination.LinearColor
-struct  LinearColor_tB134EA090C61E6624DE36F52980CA7E2C893D5F2 
+struct LinearColor_tB134EA090C61E6624DE36F52980CA7E2C893D5F2 
 {
 public:
 	// System.Single UnityEngine.Experimental.GlobalIllumination.LinearColor::m_red
@@ -5901,7 +5901,7 @@ public:
 
 
 // System.Reflection.ParameterModifier
-struct  ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA 
+struct ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA 
 {
 public:
 	// System.Boolean[] System.Reflection.ParameterModifier::_byRef
@@ -5930,7 +5930,7 @@ struct ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA_marshaled_com
 };
 
 // UnityEngine.Quaternion
-struct  Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4 
+struct Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -5994,7 +5994,7 @@ public:
 
 
 // System.Resources.ResourceLocator
-struct  ResourceLocator_t3D496606F94367D5D6B24DA9DC0A3B46E6B53B11 
+struct ResourceLocator_t3D496606F94367D5D6B24DA9DC0A3B46E6B53B11 
 {
 public:
 	// System.Object System.Resources.ResourceLocator::_value
@@ -6035,7 +6035,7 @@ struct ResourceLocator_t3D496606F94367D5D6B24DA9DC0A3B46E6B53B11_marshaled_com
 };
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -6053,7 +6053,7 @@ public:
 
 
 // UnityEngine.UI.SpriteState
-struct  SpriteState_t9024961148433175CE2F3D9E8E9239A8B1CAB15E 
+struct SpriteState_t9024961148433175CE2F3D9E8E9239A8B1CAB15E 
 {
 public:
 	// UnityEngine.Sprite UnityEngine.UI.SpriteState::m_HighlightedSprite
@@ -6121,7 +6121,7 @@ struct SpriteState_t9024961148433175CE2F3D9E8E9239A8B1CAB15E_marshaled_com
 };
 
 // UnityEngine.UILineInfo
-struct  UILineInfo_tD082FF4894030AD4EBF57ACF6A997135E4B8B67C 
+struct UILineInfo_tD082FF4894030AD4EBF57ACF6A997135E4B8B67C 
 {
 public:
 	// System.Int32 UnityEngine.UILineInfo::startCharIdx
@@ -6169,7 +6169,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tEC57511B3E3CA2DBA1BEBD434C6983E31C943281 
+struct UInt64_tEC57511B3E3CA2DBA1BEBD434C6983E31C943281 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -6187,7 +6187,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
+struct Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -6301,7 +6301,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
+struct Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -6445,7 +6445,7 @@ public:
 
 
 // UnityEngine.Vector4
-struct  Vector4_tA56A37FC5661BCC89C3DDC24BE12BA5BCB6A02C7 
+struct Vector4_tA56A37FC5661BCC89C3DDC24BE12BA5BCB6A02C7 
 {
 public:
 	// System.Single UnityEngine.Vector4::x
@@ -6539,7 +6539,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -6555,7 +6555,7 @@ public:
 
 
 // System.Threading.Tasks.VoidTaskResult
-struct  VoidTaskResult_t28D1A323545DE024749196472558F49F1AAF0004 
+struct VoidTaskResult_t28D1A323545DE024749196472558F49F1AAF0004 
 {
 public:
 	union
@@ -6571,7 +6571,7 @@ public:
 
 
 // UnityEngine.BeforeRenderHelper/OrderBlock
-struct  OrderBlock_t0B106828F588BC2F0B9895425E6FD39EDA45C1E2 
+struct OrderBlock_t0B106828F588BC2F0B9895425E6FD39EDA45C1E2 
 {
 public:
 	// System.Int32 UnityEngine.BeforeRenderHelper/OrderBlock::order
@@ -6612,7 +6612,7 @@ struct OrderBlock_t0B106828F588BC2F0B9895425E6FD39EDA45C1E2_marshaled_com
 };
 
 // UnityEngine.UnitySynchronizationContext/WorkRequest
-struct  WorkRequest_tA19FD4D1269D8EE2EA886AAF036C4F7F09154393 
+struct WorkRequest_tA19FD4D1269D8EE2EA886AAF036C4F7F09154393 
 {
 public:
 	// System.Threading.SendOrPostCallback UnityEngine.UnitySynchronizationContext/WorkRequest::m_DelagateCallback
@@ -6667,7 +6667,7 @@ struct WorkRequest_tA19FD4D1269D8EE2EA886AAF036C4F7F09154393_marshaled_com
 };
 
 // System.Collections.Generic.Dictionary`2/Entry<System.Object,System.Resources.ResourceLocator>
-struct  Entry_tD8A93CAFA635C3623A9F8C1541CA22C83D04EA26 
+struct Entry_tD8A93CAFA635C3623A9F8C1541CA22C83D04EA26 
 {
 public:
 	// System.Int32 System.Collections.Generic.Dictionary`2/Entry::hashCode
@@ -6717,7 +6717,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.DateTime,System.Object>
-struct  KeyValuePair_2_tB6ECB423D6D4B3D2F916E061DDF9A7C3F0958D57 
+struct KeyValuePair_2_tB6ECB423D6D4B3D2F916E061DDF9A7C3F0958D57 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -6746,7 +6746,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Resources.ResourceLocator>
-struct  KeyValuePair_2_t6A417393575389EF0D895B62580FBC33E95066EF 
+struct KeyValuePair_2_t6A417393575389EF0D895B62580FBC33E95066EF 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -6776,7 +6776,7 @@ public:
 
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tAAAB07D9AC588F0D55D844E51D7035E96DF94733 
+struct BindingFlags_tAAAB07D9AC588F0D55D844E51D7035E96DF94733 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -6794,7 +6794,7 @@ public:
 
 
 // System.Threading.CancellationTokenRegistration
-struct  CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A 
+struct CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A 
 {
 public:
 	// System.Threading.CancellationCallbackInfo System.Threading.CancellationTokenRegistration::m_callbackInfo
@@ -6836,7 +6836,7 @@ struct CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A_m
 };
 
 // UnityEngine.UI.ColorBlock
-struct  ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955 
+struct ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955 
 {
 public:
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_NormalColor
@@ -6930,7 +6930,7 @@ public:
 
 
 // UnityEngine.ContactPoint
-struct  ContactPoint_tC179732A8E0014F5EFF5977ED1ADF12CF14A9017 
+struct ContactPoint_tC179732A8E0014F5EFF5977ED1ADF12CF14A9017 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.ContactPoint::m_Point
@@ -6988,7 +6988,7 @@ public:
 
 
 // System.Reflection.CustomAttributeNamedArgument
-struct  CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA 
+struct CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA 
 {
 public:
 	// System.Reflection.CustomAttributeTypedArgument System.Reflection.CustomAttributeNamedArgument::typedArgument
@@ -7033,7 +7033,7 @@ struct CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA_ma
 };
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -7185,7 +7185,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -7411,7 +7411,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.ExceptionResource
-struct  ExceptionResource_tD29FDAA391137C7766FB63B5F13FA0F12AF6C3FA 
+struct ExceptionResource_tD29FDAA391137C7766FB63B5F13FA0F12AF6C3FA 
 {
 public:
 	// System.Int32 System.ExceptionResource::value__
@@ -7429,7 +7429,7 @@ public:
 
 
 // UnityEngine.Experimental.GlobalIllumination.FalloffType
-struct  FalloffType_t983DA2C11C909629E51BD1D4CF088C689C9863CB 
+struct FalloffType_t983DA2C11C909629E51BD1D4CF088C689C9863CB 
 {
 public:
 	// System.Byte UnityEngine.Experimental.GlobalIllumination.FalloffType::value__
@@ -7447,7 +7447,7 @@ public:
 
 
 // System.Int32Enum
-struct  Int32Enum_t9B63F771913F2B6D586F1173B44A41FBE26F6B5C 
+struct Int32Enum_t9B63F771913F2B6D586F1173B44A41FBE26F6B5C 
 {
 public:
 	// System.Int32 System.Int32Enum::value__
@@ -7465,7 +7465,7 @@ public:
 
 
 // UnityEngine.Experimental.GlobalIllumination.LightMode
-struct  LightMode_t9D89979F39C1DBB9CD1E275BDD77C7EA1B506491 
+struct LightMode_t9D89979F39C1DBB9CD1E275BDD77C7EA1B506491 
 {
 public:
 	// System.Byte UnityEngine.Experimental.GlobalIllumination.LightMode::value__
@@ -7483,7 +7483,7 @@ public:
 
 
 // UnityEngine.Experimental.GlobalIllumination.LightType
-struct  LightType_t4205DE4BEF130CE507C87172DAB60E5B1EB05552 
+struct LightType_t4205DE4BEF130CE507C87172DAB60E5B1EB05552 
 {
 public:
 	// System.Byte UnityEngine.Experimental.GlobalIllumination.LightType::value__
@@ -7501,7 +7501,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
+struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -7545,7 +7545,7 @@ struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_marshaled_com
 };
 
 // UnityEngine.Plane
-struct  Plane_t80844BF2332EAFC1DDEDD616A950242031A115C7 
+struct Plane_t80844BF2332EAFC1DDEDD616A950242031A115C7 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Plane::m_Normal
@@ -7573,7 +7573,7 @@ public:
 
 
 // UnityEngine.LowLevel.PlayerLoopSystem
-struct  PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C 
+struct PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C 
 {
 public:
 	// System.Type UnityEngine.LowLevel.PlayerLoopSystem::type
@@ -7652,7 +7652,7 @@ struct PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C_marshaled_com
 };
 
 // UnityEngine.RaycastHit
-struct  RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89 
+struct RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.RaycastHit::m_Point
@@ -7720,7 +7720,7 @@ public:
 
 
 // UnityEngine.EventSystems.RaycastResult
-struct  RaycastResult_t9EFDE24B29650BD6DC8A49D954A3769E17146BCE 
+struct RaycastResult_t9EFDE24B29650BD6DC8A49D954A3769E17146BCE 
 {
 public:
 	// UnityEngine.GameObject UnityEngine.EventSystems.RaycastResult::m_GameObject
@@ -7870,7 +7870,7 @@ struct RaycastResult_t9EFDE24B29650BD6DC8A49D954A3769E17146BCE_marshaled_com
 };
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 
+struct RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -7888,7 +7888,7 @@ public:
 
 
 // System.Runtime.InteropServices.SafeHandle
-struct  SafeHandle_tC07DCA2CABF6988953342757EFB1547363E5A36B  : public CriticalFinalizerObject_tA3367C832FFE7434EB3C15C7136AF25524150997
+struct SafeHandle_tC07DCA2CABF6988953342757EFB1547363E5A36B  : public CriticalFinalizerObject_tA3367C832FFE7434EB3C15C7136AF25524150997
 {
 public:
 	// System.IntPtr System.Runtime.InteropServices.SafeHandle::handle
@@ -7936,7 +7936,7 @@ public:
 
 
 // System.IO.SearchOption
-struct  SearchOption_tD088231E1E225D39BB408AEF566091138555C261 
+struct SearchOption_tD088231E1E225D39BB408AEF566091138555C261 
 {
 public:
 	// System.Int32 System.IO.SearchOption::value__
@@ -7954,7 +7954,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContextStates
-struct  StreamingContextStates_tF4C7FE6D6121BD4C67699869C8269A60B36B42C3 
+struct StreamingContextStates_tF4C7FE6D6121BD4C67699869C8269A60B36B42C3 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.StreamingContextStates::value__
@@ -7972,7 +7972,7 @@ public:
 
 
 // System.TypeCode
-struct  TypeCode_tCB39BAB5CFB7A1E0BCB521413E3C46B81C31AA7C 
+struct TypeCode_tCB39BAB5CFB7A1E0BCB521413E3C46B81C31AA7C 
 {
 public:
 	// System.Int32 System.TypeCode::value__
@@ -7990,7 +7990,7 @@ public:
 
 
 // UnityEngine.UICharInfo
-struct  UICharInfo_tDEA65B831FAD06D1E9B10A6088E05C6D615B089A 
+struct UICharInfo_tDEA65B831FAD06D1E9B10A6088E05C6D615B089A 
 {
 public:
 	// UnityEngine.Vector2 UnityEngine.UICharInfo::cursorPos
@@ -8018,7 +8018,7 @@ public:
 
 
 // UnityEngine.UIVertex
-struct  UIVertex_tD94AAC5F0B42DBC441AAA8ADBFCFF9E5C320C03A 
+struct UIVertex_tD94AAC5F0B42DBC441AAA8ADBFCFF9E5C320C03A 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.UIVertex::position
@@ -8142,7 +8142,7 @@ public:
 
 
 // UnityEngine.Camera/RenderRequestMode
-struct  RenderRequestMode_tCB120B82DED523ADBA2D6093A1A8ABF17D94A313 
+struct RenderRequestMode_tCB120B82DED523ADBA2D6093A1A8ABF17D94A313 
 {
 public:
 	// System.Int32 UnityEngine.Camera/RenderRequestMode::value__
@@ -8160,7 +8160,7 @@ public:
 
 
 // UnityEngine.Camera/RenderRequestOutputSpace
-struct  RenderRequestOutputSpace_t8EB93E4720B2D1BAB624A04ADB473C37C7F3D6A5 
+struct RenderRequestOutputSpace_t8EB93E4720B2D1BAB624A04ADB473C37C7F3D6A5 
 {
 public:
 	// System.Int32 UnityEngine.Camera/RenderRequestOutputSpace::value__
@@ -8178,7 +8178,7 @@ public:
 
 
 // UnityEngine.UI.Navigation/Mode
-struct  Mode_t3113FDF05158BBA1DFC78D7F69E4C1D25135CB0F 
+struct Mode_t3113FDF05158BBA1DFC78D7F69E4C1D25135CB0F 
 {
 public:
 	// System.Int32 UnityEngine.UI.Navigation/Mode::value__
@@ -8196,7 +8196,7 @@ public:
 
 
 // System.IO.FileSystemEnumerableIterator`1<System.Object>
-struct  FileSystemEnumerableIterator_1_t67DB3E986E4F747F8F1354C465DDFC70386A6C7C  : public Iterator_1_tBE2113D3335AA61637A89AF934B1955508CE76AE
+struct FileSystemEnumerableIterator_1_t67DB3E986E4F747F8F1354C465DDFC70386A6C7C  : public Iterator_1_tBE2113D3335AA61637A89AF934B1955508CE76AE
 {
 public:
 	// System.IO.SearchResultHandler`1<TSource> System.IO.FileSystemEnumerableIterator`1::_resultHandler
@@ -8332,7 +8332,7 @@ public:
 
 
 // UnityEngine.Experimental.GlobalIllumination.LightDataGI
-struct  LightDataGI_t0C34AB69E4E96717FD276B35116C798A641D44F2 
+struct LightDataGI_t0C34AB69E4E96717FD276B35116C798A641D44F2 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.GlobalIllumination.LightDataGI::instanceID
@@ -8500,7 +8500,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -8529,7 +8529,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // UnityEngine.UI.Navigation
-struct  Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A 
+struct Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A 
 {
 public:
 	// UnityEngine.UI.Navigation/Mode UnityEngine.UI.Navigation::m_Mode
@@ -8621,7 +8621,7 @@ struct Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A_marshaled_com
 };
 
 // UnityEngine.Playables.PlayableBinding
-struct  PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2 
+struct PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2 
 {
 public:
 	// System.String UnityEngine.Playables.PlayableBinding::m_StreamName
@@ -8716,7 +8716,7 @@ struct PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2_marshaled_com
 };
 
 // Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-struct  SafeHandleZeroOrMinusOneIsInvalid_t0C690C7DC958D0C04E529E2BB0F6569956328B45  : public SafeHandle_tC07DCA2CABF6988953342757EFB1547363E5A36B
+struct SafeHandleZeroOrMinusOneIsInvalid_t0C690C7DC958D0C04E529E2BB0F6569956328B45  : public SafeHandle_tC07DCA2CABF6988953342757EFB1547363E5A36B
 {
 public:
 
@@ -8725,7 +8725,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContext
-struct  StreamingContext_t5888E7E8C81AB6EF3B14FDDA6674F458076A8505 
+struct StreamingContext_t5888E7E8C81AB6EF3B14FDDA6674F458076A8505 
 {
 public:
 	// System.Object System.Runtime.Serialization.StreamingContext::m_additionalContext
@@ -8766,7 +8766,7 @@ struct StreamingContext_t5888E7E8C81AB6EF3B14FDDA6674F458076A8505_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
+struct SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
 {
 public:
 
@@ -8775,7 +8775,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -8875,7 +8875,7 @@ public:
 
 
 // UnityEngine.Camera/RenderRequest
-struct  RenderRequest_t7DEDFA6AAA1C8D381280183054C328F26BBCCE94 
+struct RenderRequest_t7DEDFA6AAA1C8D381280183054C328F26BBCCE94 
 {
 public:
 	// UnityEngine.Camera/RenderRequestMode UnityEngine.Camera/RenderRequest::m_CameraRenderMode
@@ -8928,7 +8928,7 @@ struct RenderRequest_t7DEDFA6AAA1C8D381280183054C328F26BBCCE94_marshaled_com
 };
 
 // System.IO.Directory/SearchData
-struct  SearchData_t96E91410F24E0F7642D8E79E2941BC08C5928FA5  : public RuntimeObject
+struct SearchData_t96E91410F24E0F7642D8E79E2941BC08C5928FA5  : public RuntimeObject
 {
 public:
 	// System.String System.IO.Directory/SearchData::fullPath
@@ -8968,7 +8968,7 @@ public:
 
 
 // System.Comparison`1<System.Object>
-struct  Comparison_1_tB56E8E7C2BF431D44E8EBD15EA3E6F41AAFF03D2  : public MulticastDelegate_t
+struct Comparison_1_tB56E8E7C2BF431D44E8EBD15EA3E6F41AAFF03D2  : public MulticastDelegate_t
 {
 public:
 
@@ -8977,7 +8977,7 @@ public:
 
 
 // UnityEngine.EventSystems.ExecuteEvents/EventFunction`1<System.Object>
-struct  EventFunction_1_t10AC44967751F27B2BFC1CDA880B1466D87483F1  : public MulticastDelegate_t
+struct EventFunction_1_t10AC44967751F27B2BFC1CDA880B1466D87483F1  : public MulticastDelegate_t
 {
 public:
 
@@ -8986,7 +8986,7 @@ public:
 
 
 // System.EventHandler`1<System.Object>
-struct  EventHandler_1_tFA1C30E54FA1061D79E711F65F9A174BFBD8CDCB  : public MulticastDelegate_t
+struct EventHandler_1_tFA1C30E54FA1061D79E711F65F9A174BFBD8CDCB  : public MulticastDelegate_t
 {
 public:
 
@@ -8995,7 +8995,7 @@ public:
 
 
 // System.Func`1<System.Boolean>
-struct  Func_1_t76FCDA5C58178ED310C472967481FDE5F47DCF0F  : public MulticastDelegate_t
+struct Func_1_t76FCDA5C58178ED310C472967481FDE5F47DCF0F  : public MulticastDelegate_t
 {
 public:
 
@@ -9004,7 +9004,7 @@ public:
 
 
 // System.Func`1<System.Int32>
-struct  Func_1_tCB4CC73D86ED9FF6219A185C0C591F956E5DD1BA  : public MulticastDelegate_t
+struct Func_1_tCB4CC73D86ED9FF6219A185C0C591F956E5DD1BA  : public MulticastDelegate_t
 {
 public:
 
@@ -9013,7 +9013,7 @@ public:
 
 
 // System.Func`1<System.Object>
-struct  Func_1_t807CEE610086E24A0167BAA97A64062016E09D49  : public MulticastDelegate_t
+struct Func_1_t807CEE610086E24A0167BAA97A64062016E09D49  : public MulticastDelegate_t
 {
 public:
 
@@ -9022,7 +9022,7 @@ public:
 
 
 // System.Func`1<System.Threading.Tasks.VoidTaskResult>
-struct  Func_1_t8EF98923CD51FA5183990F9211D8F90843D4A2F6  : public MulticastDelegate_t
+struct Func_1_t8EF98923CD51FA5183990F9211D8F90843D4A2F6  : public MulticastDelegate_t
 {
 public:
 
@@ -9031,7 +9031,7 @@ public:
 
 
 // System.Func`2<System.Object,System.Boolean>
-struct  Func_2_t99409DECFF50F0FA9B427C863AC6C99C66E6F9F8  : public MulticastDelegate_t
+struct Func_2_t99409DECFF50F0FA9B427C863AC6C99C66E6F9F8  : public MulticastDelegate_t
 {
 public:
 
@@ -9040,7 +9040,7 @@ public:
 
 
 // System.Func`2<System.Object,System.Int32>
-struct  Func_2_t0CEE9D1C856153BA9C23BB9D7E929D577AF37A2C  : public MulticastDelegate_t
+struct Func_2_t0CEE9D1C856153BA9C23BB9D7E929D577AF37A2C  : public MulticastDelegate_t
 {
 public:
 
@@ -9049,7 +9049,7 @@ public:
 
 
 // System.Func`2<System.Object,System.Object>
-struct  Func_2_tFF5BB8F40A35B1BEA00D4EBBC6CBE7184A584436  : public MulticastDelegate_t
+struct Func_2_tFF5BB8F40A35B1BEA00D4EBBC6CBE7184A584436  : public MulticastDelegate_t
 {
 public:
 
@@ -9058,7 +9058,7 @@ public:
 
 
 // System.Func`2<System.Object,System.Single>
-struct  Func_2_t78F21BB7B6C7D754A8C4D71ACB39668A8F967BA1  : public MulticastDelegate_t
+struct Func_2_t78F21BB7B6C7D754A8C4D71ACB39668A8F967BA1  : public MulticastDelegate_t
 {
 public:
 
@@ -9067,7 +9067,7 @@ public:
 
 
 // System.Func`2<System.Object,System.Threading.Tasks.VoidTaskResult>
-struct  Func_2_t72EDE8D5863D0BDF2B630E6BC52E7852E62098A0  : public MulticastDelegate_t
+struct Func_2_t72EDE8D5863D0BDF2B630E6BC52E7852E62098A0  : public MulticastDelegate_t
 {
 public:
 
@@ -9076,7 +9076,7 @@ public:
 
 
 // System.Func`3<System.Int32,System.IntPtr,System.Boolean>
-struct  Func_3_tC53D1EA39D16EE63C9C8B6C2EC9769A630644CE0  : public MulticastDelegate_t
+struct Func_3_tC53D1EA39D16EE63C9C8B6C2EC9769A630644CE0  : public MulticastDelegate_t
 {
 public:
 
@@ -9085,7 +9085,7 @@ public:
 
 
 // System.Func`3<System.Object,System.Object,System.Object>
-struct  Func_3_tBBBFF266D23D5A9A7940D16DA73BCD5DE0753A27  : public MulticastDelegate_t
+struct Func_3_tBBBFF266D23D5A9A7940D16DA73BCD5DE0753A27  : public MulticastDelegate_t
 {
 public:
 
@@ -9094,7 +9094,7 @@ public:
 
 
 // System.Func`4<System.Object,System.Object,System.Boolean,System.Object>
-struct  Func_4_t2404CC70EDE564815549EEF29440C5C6D530D48D  : public MulticastDelegate_t
+struct Func_4_t2404CC70EDE564815549EEF29440C5C6D530D48D  : public MulticastDelegate_t
 {
 public:
 
@@ -9103,7 +9103,7 @@ public:
 
 
 // System.Func`4<System.Object,System.Object,System.Object,System.Object>
-struct  Func_4_t506CA082EE40D9DFBE82C3CAF44181A1323BC77A  : public MulticastDelegate_t
+struct Func_4_t506CA082EE40D9DFBE82C3CAF44181A1323BC77A  : public MulticastDelegate_t
 {
 public:
 
@@ -9112,7 +9112,7 @@ public:
 
 
 // System.Reflection.MonoProperty/Getter`2<System.Object,System.Object>
-struct  Getter_2_t81181C5D3C83EE61FFA30B3479BF4F9FC6ECBBDB  : public MulticastDelegate_t
+struct Getter_2_t81181C5D3C83EE61FFA30B3479BF4F9FC6ECBBDB  : public MulticastDelegate_t
 {
 public:
 
@@ -9121,7 +9121,7 @@ public:
 
 
 // System.Predicate`1<System.Object>
-struct  Predicate_1_t5C96B81B31A697B11C4C3767E3298773AF25DFEB  : public MulticastDelegate_t
+struct Predicate_1_t5C96B81B31A697B11C4C3767E3298773AF25DFEB  : public MulticastDelegate_t
 {
 public:
 
@@ -9130,7 +9130,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -9149,7 +9149,7 @@ public:
 
 
 // System.AsyncCallback
-struct  AsyncCallback_tA7921BEF974919C46FF8F9D9867C567B200BB0EA  : public MulticastDelegate_t
+struct AsyncCallback_tA7921BEF974919C46FF8F9D9867C567B200BB0EA  : public MulticastDelegate_t
 {
 public:
 
@@ -9158,7 +9158,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t10D3EE59AD28EC641ACEE05BCA4271A527E5ECAB  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct InvalidOperationException_t10D3EE59AD28EC641ACEE05BCA4271A527E5ECAB  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 
@@ -9167,7 +9167,7 @@ public:
 
 
 // System.NotImplementedException
-struct  NotImplementedException_t26260C4EE0444C5FA022994203060B3A42A3ADE6  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct NotImplementedException_t26260C4EE0444C5FA022994203060B3A42A3ADE6  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 
@@ -9176,7 +9176,7 @@ public:
 
 
 // System.NotSupportedException
-struct  NotSupportedException_tB9D89F0E9470A2C423D239D7C68EE0CFD77F9339  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct NotSupportedException_tB9D89F0E9470A2C423D239D7C68EE0CFD77F9339  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 
@@ -9185,7 +9185,7 @@ public:
 
 
 // Microsoft.Win32.SafeHandles.SafeFindHandle
-struct  SafeFindHandle_t0E0D5349FC3144C1CAB2D20DCD3023B25833B8BD  : public SafeHandleZeroOrMinusOneIsInvalid_t0C690C7DC958D0C04E529E2BB0F6569956328B45
+struct SafeFindHandle_t0E0D5349FC3144C1CAB2D20DCD3023B25833B8BD  : public SafeHandleZeroOrMinusOneIsInvalid_t0C690C7DC958D0C04E529E2BB0F6569956328B45
 {
 public:
 
@@ -9194,7 +9194,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationException
-struct  SerializationException_tDB38C13A2ABF407C381E3F332D197AC1AD097A92  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct SerializationException_tDB38C13A2ABF407C381E3F332D197AC1AD097A92  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 
@@ -9220,7 +9220,7 @@ public:
 
 
 // System.Reflection.TypeInfo
-struct  TypeInfo_tFFBAC0D7187BFD2D25CC801679BC9645020EC04F  : public Type_t
+struct TypeInfo_tFFBAC0D7187BFD2D25CC801679BC9645020EC04F  : public Type_t
 {
 public:
 
@@ -9229,7 +9229,7 @@ public:
 
 
 // System.ArgumentNullException
-struct  ArgumentNullException_tFB5C4621957BC53A7D1B4FDD5C38B4D6E15DB8FB  : public ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00
+struct ArgumentNullException_tFB5C4621957BC53A7D1B4FDD5C38B4D6E15DB8FB  : public ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00
 {
 public:
 
@@ -9238,7 +9238,7 @@ public:
 
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_tFAF23713820951D4A09ABBFE5CC091E445A6F3D8  : public ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00
+struct ArgumentOutOfRangeException_tFAF23713820951D4A09ABBFE5CC091E445A6F3D8  : public ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue
@@ -9274,7 +9274,7 @@ public:
 
 
 // System.RuntimeType
-struct  RuntimeType_t4F49C0B3B2871AECF65AF5FA3E42BAB5B0C1FD07  : public TypeInfo_tFFBAC0D7187BFD2D25CC801679BC9645020EC04F
+struct RuntimeType_t4F49C0B3B2871AECF65AF5FA3E42BAB5B0C1FD07  : public TypeInfo_tFFBAC0D7187BFD2D25CC801679BC9645020EC04F
 {
 public:
 	// System.MonoTypeInfo System.RuntimeType::type_info
@@ -29807,7 +29807,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* HashSet_1_System_Collections_G
 		Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A  L_0;
 		memset((&L_0), 0, sizeof(L_0));
 		Enumerator__ctor_mAE938D95F2DC42DB92496F70C58F3518340D0660((&L_0), (HashSet_1_t680119C7ED8D82AED56CDB83DF6F0E9149852A9B *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 9));
-		Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A  L_1 = L_0;
+		Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A  L_1 = (Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_1);
 		return (RuntimeObject*)L_2;
 	}
@@ -29819,7 +29819,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* HashSet_1_System_Collections_I
 		Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A  L_0;
 		memset((&L_0), 0, sizeof(L_0));
 		Enumerator__ctor_mAE938D95F2DC42DB92496F70C58F3518340D0660((&L_0), (HashSet_1_t680119C7ED8D82AED56CDB83DF6F0E9149852A9B *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 9));
-		Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A  L_1 = L_0;
+		Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A  L_1 = (Enumerator_t2430E2854B4328060EB6096AD1E4851E8DC45C3A )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_1);
 		return (RuntimeObject*)L_2;
 	}
@@ -35356,7 +35356,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Entry_tD3C172E348082DAA38034A7BFC5251A40A96D632  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mA8171099E3788434D6234A7142EA191835A46BAC((InternalEnumerator_1_tD981BF0F50271F9EA86996350AECA56BDA5C2DB2 *)(InternalEnumerator_1_tD981BF0F50271F9EA86996350AECA56BDA5C2DB2 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Entry_tD3C172E348082DAA38034A7BFC5251A40A96D632  L_1 = L_0;
+		Entry_tD3C172E348082DAA38034A7BFC5251A40A96D632  L_1 = (Entry_tD3C172E348082DAA38034A7BFC5251A40A96D632 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -35524,7 +35524,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Entry_t19C714E802975CC32D4BD74AE5A32816E1352D0A  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m3FB161E3811BA5DF9B25C3705446494D94DA9461((InternalEnumerator_1_t714B5183EC1483B04D783B05F3E7B0C31B99E711 *)(InternalEnumerator_1_t714B5183EC1483B04D783B05F3E7B0C31B99E711 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Entry_t19C714E802975CC32D4BD74AE5A32816E1352D0A  L_1 = L_0;
+		Entry_t19C714E802975CC32D4BD74AE5A32816E1352D0A  L_1 = (Entry_t19C714E802975CC32D4BD74AE5A32816E1352D0A )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -35692,7 +35692,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Entry_t83C37D8208C6D1FBF2FAE2AACE83E9AA3EDBB4DE  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m6CE3B96C2EFB05A2744AC147623D64D04B06315C((InternalEnumerator_1_t1192C3B86D30E875CCD5BE146064F9BD1EDA7228 *)(InternalEnumerator_1_t1192C3B86D30E875CCD5BE146064F9BD1EDA7228 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Entry_t83C37D8208C6D1FBF2FAE2AACE83E9AA3EDBB4DE  L_1 = L_0;
+		Entry_t83C37D8208C6D1FBF2FAE2AACE83E9AA3EDBB4DE  L_1 = (Entry_t83C37D8208C6D1FBF2FAE2AACE83E9AA3EDBB4DE )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -35860,7 +35860,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Entry_tD8A93CAFA635C3623A9F8C1541CA22C83D04EA26  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mDF4EC3F3C7826BC2C04AA0DEF16EF5240AD4A38B((InternalEnumerator_1_t0BC256F805A24DD09D5CCB76FC79ECBF1386CC45 *)(InternalEnumerator_1_t0BC256F805A24DD09D5CCB76FC79ECBF1386CC45 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Entry_tD8A93CAFA635C3623A9F8C1541CA22C83D04EA26  L_1 = L_0;
+		Entry_tD8A93CAFA635C3623A9F8C1541CA22C83D04EA26  L_1 = (Entry_tD8A93CAFA635C3623A9F8C1541CA22C83D04EA26 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -36028,7 +36028,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		KeyValuePair_2_tB6ECB423D6D4B3D2F916E061DDF9A7C3F0958D57  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m2A77F9B47688528538E3BCD31C824EE17FBBBBF0((InternalEnumerator_1_tDA32BBD291F0EA5533486F5D88AFEA9CBD6B305D *)(InternalEnumerator_1_tDA32BBD291F0EA5533486F5D88AFEA9CBD6B305D *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		KeyValuePair_2_tB6ECB423D6D4B3D2F916E061DDF9A7C3F0958D57  L_1 = L_0;
+		KeyValuePair_2_tB6ECB423D6D4B3D2F916E061DDF9A7C3F0958D57  L_1 = (KeyValuePair_2_tB6ECB423D6D4B3D2F916E061DDF9A7C3F0958D57 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -36196,7 +36196,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		KeyValuePair_2_t56E20A5489EE435FD8BBE3EFACF6219A626E04C0  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m63D696167DE80521776AB9C8452ED4EDFE19CBDD((InternalEnumerator_1_tF7F2F1A37E06D22174981615EF35BD7284843180 *)(InternalEnumerator_1_tF7F2F1A37E06D22174981615EF35BD7284843180 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		KeyValuePair_2_t56E20A5489EE435FD8BBE3EFACF6219A626E04C0  L_1 = L_0;
+		KeyValuePair_2_t56E20A5489EE435FD8BBE3EFACF6219A626E04C0  L_1 = (KeyValuePair_2_t56E20A5489EE435FD8BBE3EFACF6219A626E04C0 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -36364,7 +36364,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		KeyValuePair_2_t95507C2A8401F2191EE3D308B1B00E3729AE41B5  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mA713A1607C7EC489B84E3ED948ECFC072317A1A7((InternalEnumerator_1_tE5CF8CAB8374FD9DB117204DB667B5BBE7FA9298 *)(InternalEnumerator_1_tE5CF8CAB8374FD9DB117204DB667B5BBE7FA9298 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		KeyValuePair_2_t95507C2A8401F2191EE3D308B1B00E3729AE41B5  L_1 = L_0;
+		KeyValuePair_2_t95507C2A8401F2191EE3D308B1B00E3729AE41B5  L_1 = (KeyValuePair_2_t95507C2A8401F2191EE3D308B1B00E3729AE41B5 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -36532,7 +36532,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		KeyValuePair_2_tFB6A066C69E28C6ACA5FC5E24D969BFADC5FA625  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m586414A5EB294B6890A58DB0A51E97114EBF7B06((InternalEnumerator_1_tB6A864BBA0281CF35A3632CE6BDA5CF21AA0A082 *)(InternalEnumerator_1_tB6A864BBA0281CF35A3632CE6BDA5CF21AA0A082 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		KeyValuePair_2_tFB6A066C69E28C6ACA5FC5E24D969BFADC5FA625  L_1 = L_0;
+		KeyValuePair_2_tFB6A066C69E28C6ACA5FC5E24D969BFADC5FA625  L_1 = (KeyValuePair_2_tFB6A066C69E28C6ACA5FC5E24D969BFADC5FA625 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -36700,7 +36700,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		KeyValuePair_2_t6A417393575389EF0D895B62580FBC33E95066EF  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m2FB2E8524C99447832FF73BEBB3461EFF507A847((InternalEnumerator_1_tA59EF204D1E3F26431D6356FC1975E8856A9C943 *)(InternalEnumerator_1_tA59EF204D1E3F26431D6356FC1975E8856A9C943 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		KeyValuePair_2_t6A417393575389EF0D895B62580FBC33E95066EF  L_1 = L_0;
+		KeyValuePair_2_t6A417393575389EF0D895B62580FBC33E95066EF  L_1 = (KeyValuePair_2_t6A417393575389EF0D895B62580FBC33E95066EF )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -36868,7 +36868,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Slot_t1100E8CA172ECADD9BE877E11205FB2D911CD319  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m59978A2D1B4FA2CC166665AC14F0BF37BF5EDBD0((InternalEnumerator_1_t57700F0C41A9D145D2EA1114C396DBAF834DC3FF *)(InternalEnumerator_1_t57700F0C41A9D145D2EA1114C396DBAF834DC3FF *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Slot_t1100E8CA172ECADD9BE877E11205FB2D911CD319  L_1 = L_0;
+		Slot_t1100E8CA172ECADD9BE877E11205FB2D911CD319  L_1 = (Slot_t1100E8CA172ECADD9BE877E11205FB2D911CD319 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -37036,7 +37036,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		BatchVisibility_tFA63D052426424FBD58F78E973AAAC52A67B5AFE  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mD2459733D171A54928FC16526D8C7D7769282B00((InternalEnumerator_1_tD334F90E773C43CBAECBE4AE435ECBE9E1594FB9 *)(InternalEnumerator_1_tD334F90E773C43CBAECBE4AE435ECBE9E1594FB9 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		BatchVisibility_tFA63D052426424FBD58F78E973AAAC52A67B5AFE  L_1 = L_0;
+		BatchVisibility_tFA63D052426424FBD58F78E973AAAC52A67B5AFE  L_1 = (BatchVisibility_tFA63D052426424FBD58F78E973AAAC52A67B5AFE )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -37540,7 +37540,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m50D38287C582FFA96439ED3FAF33C81B1E44D901((InternalEnumerator_1_tD3FF1BFABBBA20E3AC4FA03C2653534EF36E316B *)(InternalEnumerator_1_tD3FF1BFABBBA20E3AC4FA03C2653534EF36E316B *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A  L_1 = L_0;
+		CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A  L_1 = (CancellationTokenRegistration_t407059AA0E00ABE74F43C533E7D035C4BA451F6A )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -37876,7 +37876,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m40F26058F7E2792561118FD22665F5391CB2C34B((InternalEnumerator_1_tED83475859C5567E08C4ECE64D9CF62DE6AA5DC9 *)(InternalEnumerator_1_tED83475859C5567E08C4ECE64D9CF62DE6AA5DC9 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D  L_1 = L_0;
+		Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D  L_1 = (Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -38044,7 +38044,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m02B586D45AA9D79FBADC3C830E6599AC4FAEF278((InternalEnumerator_1_tEFBE00F3A207FD215CE44E69FBEA3AEC9799C8AF *)(InternalEnumerator_1_tEFBE00F3A207FD215CE44E69FBEA3AEC9799C8AF *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955  L_1 = L_0;
+		ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955  L_1 = (ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -38212,7 +38212,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		ContactPoint_tC179732A8E0014F5EFF5977ED1ADF12CF14A9017  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m95989047B90C3FD74F7DD113330893CFF66EEDEE((InternalEnumerator_1_tCD473BDA66B7A3F7A8B26F1D76CBD2EDD207A794 *)(InternalEnumerator_1_tCD473BDA66B7A3F7A8B26F1D76CBD2EDD207A794 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		ContactPoint_tC179732A8E0014F5EFF5977ED1ADF12CF14A9017  L_1 = L_0;
+		ContactPoint_tC179732A8E0014F5EFF5977ED1ADF12CF14A9017  L_1 = (ContactPoint_tC179732A8E0014F5EFF5977ED1ADF12CF14A9017 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -38380,7 +38380,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mD85BB7AA38B56022D6F4CA715C6DED7000C77BD3((InternalEnumerator_1_tF7DC87D58012CA89801906C45A91B00E1D204467 *)(InternalEnumerator_1_tF7DC87D58012CA89801906C45A91B00E1D204467 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA  L_1 = L_0;
+		CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA  L_1 = (CustomAttributeNamedArgument_t618778691CF7F5B44F7177210A817A29D3DAEDDA )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -38548,7 +38548,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m2511CB033FA42937A93647EBFC2C6053F191F37D((InternalEnumerator_1_t87A657946E02143952272092C580DF9AA2CC334A *)(InternalEnumerator_1_t87A657946E02143952272092C580DF9AA2CC334A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910  L_1 = L_0;
+		CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910  L_1 = (CustomAttributeTypedArgument_tE7152E8FACDD29A8E0040E151C86F436FA8E6910 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -38716,7 +38716,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mB0116B05C38FF5E3C65C92D0B6F9EB49FE851444((InternalEnumerator_1_t9997F001816F91ADD9019B9DE3ED21F9CBDAFD66 *)(InternalEnumerator_1_t9997F001816F91ADD9019B9DE3ED21F9CBDAFD66 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405  L_1 = L_0;
+		DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405  L_1 = (DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -38884,7 +38884,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Decimal_t2978B229CA86D3B7BA66A0AEEE014E0DE4F940D7  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m9136AF5B67589614EC0AEDFE5D61D2B629A10B9F((InternalEnumerator_1_t934F5DA2B01B663F4BD787467C3378BB05C77ED9 *)(InternalEnumerator_1_t934F5DA2B01B663F4BD787467C3378BB05C77ED9 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Decimal_t2978B229CA86D3B7BA66A0AEEE014E0DE4F940D7  L_1 = L_0;
+		Decimal_t2978B229CA86D3B7BA66A0AEEE014E0DE4F940D7  L_1 = (Decimal_t2978B229CA86D3B7BA66A0AEEE014E0DE4F940D7 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -39052,7 +39052,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m0CC3C58742A2B835F160E3A909344D13EA943B20((InternalEnumerator_1_t3DE2557B7DE3728AD7961315F9C5D4F1129A5504 *)(InternalEnumerator_1_t3DE2557B7DE3728AD7961315F9C5D4F1129A5504 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90  L_1 = L_0;
+		DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90  L_1 = (DictionaryEntry_tF60471FAB430320A9C7D4382BF966EAAC06D7A90 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -39388,7 +39388,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mE14EF6732492515AA3CBFB7E90AE07B44C9E29C4((InternalEnumerator_1_t209894F016B4A4D22F2B095011AA30F75FD2894A *)(InternalEnumerator_1_t209894F016B4A4D22F2B095011AA30F75FD2894A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208  L_1 = L_0;
+		Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208  L_1 = (Ephemeron_t76EEAA1BDD5BE64FEAF9E3CD185451837EAA6208 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -39892,7 +39892,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		int32_t L_0;
 		L_0 = InternalEnumerator_1_get_Current_m1CE14CD3298F5700C19FF7198AD0DA09A27A4D33((InternalEnumerator_1_t803773E4C1219E04B5366F6B5AB467A12ED474BA *)(InternalEnumerator_1_t803773E4C1219E04B5366F6B5AB467A12ED474BA *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		int32_t L_1 = L_0;
+		int32_t L_1 = (int32_t)L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -40396,7 +40396,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mABDB32913E460439961853B84335635F4A5F2486((InternalEnumerator_1_t56DDFD58CD7B4360A12ADAC1E44B3BC493DBE802 *)(InternalEnumerator_1_t56DDFD58CD7B4360A12ADAC1E44B3BC493DBE802 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7  L_1 = L_0;
+		InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7  L_1 = (InternalCodePageDataItem_t885932F372A8EEC39396B0D57CC93AC72E2A3DA7 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -40564,7 +40564,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m425250C9ABFE0B9AB0CAC484A7DE4BAFE7654182((InternalEnumerator_1_t25F66DA5C1147C9F0B70B3E1E94D3F195676D8BA *)(InternalEnumerator_1_t25F66DA5C1147C9F0B70B3E1E94D3F195676D8BA *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C  L_1 = L_0;
+		InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C  L_1 = (InternalEncodingDataItem_t2854F84125B1F420ABB3AA251C75E288EC87568C )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -40732,7 +40732,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m2220371441E23EDEE4F37EDEF5A240296DADDABB((InternalEnumerator_1_t0D1C99F3CC8B170B65FC2E1263C66BF6B56DD1BC *)(InternalEnumerator_1_t0D1C99F3CC8B170B65FC2E1263C66BF6B56DD1BC *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F  L_1 = L_0;
+		Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F  L_1 = (Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -40900,7 +40900,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		LightDataGI_t0C34AB69E4E96717FD276B35116C798A641D44F2  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m8504C1CEEB14B078A5860EDCC31649319524AD62((InternalEnumerator_1_tC9AA7769CFAE6275854CDF77E610F84EB413B94E *)(InternalEnumerator_1_tC9AA7769CFAE6275854CDF77E610F84EB413B94E *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		LightDataGI_t0C34AB69E4E96717FD276B35116C798A641D44F2  L_1 = L_0;
+		LightDataGI_t0C34AB69E4E96717FD276B35116C798A641D44F2  L_1 = (LightDataGI_t0C34AB69E4E96717FD276B35116C798A641D44F2 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -41068,7 +41068,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m3CCEC75F962751A041E8B4D076B691B6232E57FC((InternalEnumerator_1_t66B28D9EE09F01F177ED608FA2D84850EA9D5ACA *)(InternalEnumerator_1_t66B28D9EE09F01F177ED608FA2D84850EA9D5ACA *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A  L_1 = L_0;
+		Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A  L_1 = (Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -41402,7 +41402,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m450B84DF478E5A87A69BAA9066487A4025050C52((InternalEnumerator_1_tC9E22B155E27D37C78C6F86A23D50CB0BCAF87F7 *)(InternalEnumerator_1_tC9E22B155E27D37C78C6F86A23D50CB0BCAF87F7 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA  L_1 = L_0;
+		ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA  L_1 = (ParameterModifier_tC1C793BD8B003B24010657487AFD17A4BA3DF6EA )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -41570,7 +41570,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		Plane_t80844BF2332EAFC1DDEDD616A950242031A115C7  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m741785B3F1AA58048C6D91CBBF1CD4CE0D8D12E2((InternalEnumerator_1_tBBD42AD556F1AEAC3832E0A6165B489B15127283 *)(InternalEnumerator_1_tBBD42AD556F1AEAC3832E0A6165B489B15127283 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		Plane_t80844BF2332EAFC1DDEDD616A950242031A115C7  L_1 = L_0;
+		Plane_t80844BF2332EAFC1DDEDD616A950242031A115C7  L_1 = (Plane_t80844BF2332EAFC1DDEDD616A950242031A115C7 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -41738,7 +41738,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m1DA1DDE9E7991781F589828F74791BE3EEC82543((InternalEnumerator_1_tF5ADEEE344C8F0FD5F4821802D522EA21C228E42 *)(InternalEnumerator_1_tF5ADEEE344C8F0FD5F4821802D522EA21C228E42 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2  L_1 = L_0;
+		PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2  L_1 = (PlayableBinding_t265202500C703254AD9777368C05D1986C8AC7A2 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -41906,7 +41906,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C  L_0;
 		L_0 = InternalEnumerator_1_get_Current_mBCD17E20CD388D90F8426A41CA4090A965E0CC23((InternalEnumerator_1_tFAA3414E8C711AAEE665E32DC112113CA408B5F0 *)(InternalEnumerator_1_tFAA3414E8C711AAEE665E32DC112113CA408B5F0 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C  L_1 = L_0;
+		PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C  L_1 = (PlayerLoopSystem_t3C4FAE5D2149A8DBB8BED0C2AE9B957B7830E54C )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
@@ -42074,7 +42074,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * InternalEnumerator_1_System_C
 	{
 		RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89  L_0;
 		L_0 = InternalEnumerator_1_get_Current_m9C8C46031F095C5AD5A4607A63E67D4C11B292D8((InternalEnumerator_1_t042BCE99E7EF8B342F56CDEE39D5A86C0316B1C1 *)(InternalEnumerator_1_t042BCE99E7EF8B342F56CDEE39D5A86C0316B1C1 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->klass)->rgctx_data, 1));
-		RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89  L_1 = L_0;
+		RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89  L_1 = (RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89 )L_0;
 		RuntimeObject * L_2 = Box(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->klass)->rgctx_data, 2), &L_1);
 		return (RuntimeObject *)L_2;
 	}
